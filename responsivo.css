@@ -1,0 +1,8 @@
+@media(max-widht: 1280px) {
+    .home {
+        flex-direction: column;
+        align-items: center;
+        margin: 50px 0;
+
+    }
+}
